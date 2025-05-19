@@ -1,4 +1,4 @@
-# Neuro240
+# Code for project
 
 get_dataset.ipynb was used for formatting VinBigData dataset
 
@@ -8,4 +8,4 @@ model_training.ipynb is the new notebook for training the models (the old one wa
 
 gradcam.ipynb extracts and applies an overlay for explainability purposes on the images
 
-My .pth model weights are too large to be uploaded to github.
+The .pth model weights are too large to be uploaded to github.
